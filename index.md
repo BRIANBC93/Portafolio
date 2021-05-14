@@ -1,9 +1,9 @@
 ## MI PERFIL
 
-##Nombre: 
+## Nombre: 
   Brian Alberto Bernal Castillo
 
-##Residencia: 
+## Residencia: 
   Bogotá/Colombia
 
-##Profesional en Ingeieria de Sistemas
+## Profesional en Ingeieria de Sistemas
