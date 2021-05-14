@@ -6,4 +6,4 @@
 ## Residencia: 
   Bogotá/Colombia
 
-## Profesional en Ingeieria de Sistemas
+## Profesional en Ingenieria de Sistemas
