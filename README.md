@@ -1,24 +1,20 @@
-# Portafolio Angular
+# Portafolio ⚙️
 
-En este proyecto se encuentra un portafolio realizado con Angular.
-Página de Pruebas: https://camilocastellanos.github.io/Portafolio-Angular/
-Página Final: https://devcastellanos.com/home 
+Página Final: https://brianbc93.github.io/Portafolio/ 
 
-## Ejecutando las pruebas ⚙️
+# Perfil 🛠️
 
-El ambiente de pruebas es:  ttps://camilocastellanos.github.io/Portafolio-Angular/
+## Nombre:  
 
-## Despliegue 📦
+* Brian Alberto Bernal Castillo
 
-El ambiente de producción para este portafolio es : ttps://devcastellanos.com/home 
+## Ubicación:  
 
-## Construido con 🛠️
+* Bogotá D.C / Colombia 
 
-* [Angular](https://angular.io/api/core/Input)
-* [Bulma CSS: "^0.9.0"](https://bulma.io/)
-* [Font Awesome: "^4.7.0"](https://fontawesome.com/)
-* [Firebase: "^7.0 || ^8.0"](https://firebase.google.com/)
-* [ng-particles: "^2.7.3"](https://www.npmjs.com/package/ng-particles)
-* [tsparticles:"^1.24.3"](https://www.npmjs.com/package/tsparticles)
-* [ngx-spinner: "^10.0.1"](https://www.npmjs.com/package/ngx-spinner)
-* [ngx-toastr: "^13.2.0"](https://www.npmjs.com/package/ngx-toastr)
+![image](https://user-images.githubusercontent.com/78004251/118226043-d2f8ce00-b44b-11eb-99f8-5dc363c9bacb.png)
+
+
+## Profesión:  
+* Ingeniero de Sistemas
+👨‍💻
